@@ -48,7 +48,7 @@ describe('PairNamer', () => {
     }
 
     it('concatenation', async () => {
-      expect(await pairSymbol('DAI', 'MKR', '-v2')).to.eq('🦄DAI:MKR-v2')
+      expect(await pairSymbol('DAI', 'MKR', '-v2')).to.eq('RUBY-DAI:MKR-v2')
     })
   })
 })
