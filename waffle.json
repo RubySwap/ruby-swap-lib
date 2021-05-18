@@ -16,7 +16,7 @@
         "": ["ast"]
       }
     },
-    "evmVersion": "istanbul",
+    "evmVersion": "byzantium",
     "optimizer": {
       "enabled": true,
       "runs": 999999
